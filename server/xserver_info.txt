@@ -1,0 +1,27 @@
+-------------- Login Info -------------
+
+URL		https://secure.xserver.ne.jp/xapanel/login/xserver/
+メールアドレス	takato5213@gmail.com
+パスワード		takato5213
+
+-------------- Server Info -------------
+
+https://amazon123.xsrv.jp/
+
+サーバー番号	sv14478
+ホスト名		sv14478.xserver.jp
+IPアドレス		162.43.122.79
+ホームディレクトリ	/home/amazon123
+
+-------------- DB Info -------------
+
+https://phpmyadmin-sv14478.xserver.jp/
+
+データベース	amazon123_db
+ユーザ		amazon123_admin
+パスワード		admin123
+
+
+mv /home/amazon123/amazon123.xsrv.jp/public_html /home/amazon123/amazon123.xsrv.jp/_public_html
+
+ln -s /home/amazon123/amazon_discord/public /home/amazon123/amazon123.xsrv.jp/public_html

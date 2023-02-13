@@ -1,0 +1,37 @@
+{
+  "name": "nodejs-express-sequelise-mysql",
+  "version": "1.0.0",
+  "description": "Node.js Rest Apis with Express, Sequelize & MySQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "bezkoder",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-paapi": "^1.0.6",
+    "amazon-sp-api": "^0.7.10",
+    "apac": "^3.0.2",
+    "axios": "^0.27.2",
+    "axis": "^1.0.0",
+    "cors": "^2.8.5",
+    "discord-send-message": "^1.0.5",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "paapi5-nodejs-sdk": "^1.1.0",
+    "save": "^2.5.0",
+    "sequelize": "^6.21.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
